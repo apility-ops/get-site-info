@@ -1,5 +1,5 @@
-name: 'Netflex Variable'
-description: 'Gets variable value from Netflex Foundation'
+name: 'Netflex Site information'
+description: 'Gets information about the site'
 inputs:
   token:  
     description: 'OIDC Token for the site'
